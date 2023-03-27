@@ -1,1 +1,1 @@
-echo K-Means clustering Algorithms README.md
+K-Means clustering Algorithms README.md
